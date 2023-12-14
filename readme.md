@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/jeYh8nA.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Add live site here](https://your-live-site-url.com)
 
 ## My process
 
