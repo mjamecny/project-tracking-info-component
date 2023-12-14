@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/project-tracking-intro-with-react-INTwF-CoJS)
+- Live Site URL: [Netlify](https://fm-challenge-project-tracking-info.netlify.app/)
 
 ## My process
 
