@@ -27,6 +27,10 @@ body {
   font-size: 1.8rem;
 }
 
+#root{
+  overflow-x: hidden;
+}
+
 input,
 button,
 textarea,
